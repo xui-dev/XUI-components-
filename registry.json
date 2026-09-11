@@ -1,0 +1,29 @@
+{
+  "$schema": "https://xui.dev/schema/registry.json",
+  "name": "xui",
+  "homepage": "https://xui.dev",
+  "repository": "https://github.com/xui-dev/XUI-components-",
+  "version": "1.0.0",
+  "items": [
+    {
+      "name": "dynamic-floating-dock",
+      "title": "Floating Liquid Dock",
+      "titleAr": "شريط التنقل الزجاجي العائم",
+      "description": "Smooth Apple-inspired floating navigation dock with magnification kinetics and specular glass reflections.",
+      "descriptionAr": "شريط تنقل عائم مستوحى من نظام آبل مع تكبير فيزيائي متناسق وانعكاسات زجاجية ناعمة.",
+      "category": "navbar",
+      "categoryLabel": "Navbar",
+      "categoryLabelAr": "أشرطة تنقل",
+      "dependencies": [
+        "lucide-react"
+      ],
+      "files": [
+        {
+          "name": "FloatingLiquidDock.tsx",
+          "path": "registry/components/dynamic-floating-dock/index.tsx",
+          "target": "components/xui/FloatingLiquidDock.tsx"
+        }
+      ]
+    }
+  ]
+}

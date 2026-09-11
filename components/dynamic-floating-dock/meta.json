@@ -1,0 +1,23 @@
+{
+  "name": "dynamic-floating-dock",
+  "title": "Floating Liquid Dock",
+  "titleAr": "شريط التنقل الزجاجي العائم",
+  "description": "Smooth Apple-inspired floating navigation dock with magnification kinetics and specular glass reflections.",
+  "descriptionAr": "شريط تنقل عائم مستوحى من نظام آبل مع تكبير فيزيائي متناسق وانعكاسات زجاجية ناعمة.",
+  "category": "navbar",
+  "categoryLabel": "Navbar",
+  "categoryLabelAr": "أشرطة تنقل",
+  "author": "Aymen",
+  "authorHandle": "@aymen_dev",
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "files": [
+    {
+      "name": "FloatingLiquidDock.tsx",
+      "path": "components/xui/FloatingLiquidDock.tsx",
+      "target": "components/xui/FloatingLiquidDock.tsx"
+    }
+  ]
+}
