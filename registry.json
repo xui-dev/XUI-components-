@@ -24,6 +24,31 @@
           "target": "components/xui/FloatingLiquidDock.tsx"
         }
       ]
+    },
+    {
+      "name": "test-audit-component",
+      "title": "Audit Verification Component",
+      "description": "Temporary test component to verify GitHub synchronization and mutation integrity.",
+      "category": "cards",
+      "categoryLabel": "Cards",
+      "author": "Aymen",
+      "authorHandle": "@aymen_dev",
+      "dependencies": [
+        "lucide-react"
+      ],
+      "registryDependencies": [],
+      "files": [
+        {
+          "name": "test-audit-component.tsx",
+          "path": "registry/components/test-audit-component/index.tsx",
+          "target": "components/xui/test-audit-component.tsx"
+        },
+        {
+          "name": "test-audit-component.jsx",
+          "path": "registry/components/test-audit-component/index.jsx",
+          "target": "components/xui/test-audit-component.jsx"
+        }
+      ]
     }
   ]
 }
