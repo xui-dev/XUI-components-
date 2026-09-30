@@ -3,5 +3,31 @@
   "homepage": "https://xui.dev",
   "repository": "https://github.com/xui-dev/XUI-components-",
   "version": "1.0.0",
-  "items": []
+  "items": [
+    {
+      "name": "two-sided-card",
+      "title": "Two-sided card",
+      "description": "Interactive 3D flip card with smooth animations.",
+      "category": "cards",
+      "categoryLabel": "cards",
+      "author": "XUI",
+      "authorHandle": "@xui_dev",
+      "dependencies": [
+        "styled-components"
+      ],
+      "registryDependencies": [],
+      "files": [
+        {
+          "name": "two-sided-card.tsx",
+          "path": "registry/components/two-sided-card/index.tsx",
+          "target": "components/xui/two-sided-card.tsx"
+        },
+        {
+          "name": "two-sided-card.jsx",
+          "path": "registry/components/two-sided-card/index.jsx",
+          "target": "components/xui/two-sided-card.jsx"
+        }
+      ]
+    }
+  ]
 }
