@@ -3,5 +3,31 @@
   "homepage": "https://xui.dev",
   "repository": "https://github.com/xui-dev/XUI-components-",
   "version": "1.0.0",
-  "items": []
+  "items": [
+    {
+      "name": "card-",
+      "title": "Two-sided card",
+      "description": "",
+      "category": "cards",
+      "categoryLabel": "Cards",
+      "author": "XUI",
+      "authorHandle": "@xui_dev",
+      "dependencies": [
+        "lucide-react"
+      ],
+      "registryDependencies": [],
+      "files": [
+        {
+          "name": "card-.tsx",
+          "path": "registry/components/card-/index.tsx",
+          "target": "components/xui/card-.tsx"
+        },
+        {
+          "name": "card-.jsx",
+          "path": "registry/components/card-/index.jsx",
+          "target": "components/xui/card-.jsx"
+        }
+      ]
+    }
+  ]
 }
