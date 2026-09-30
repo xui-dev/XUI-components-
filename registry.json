@@ -28,6 +28,31 @@
           "target": "components/xui/card-.jsx"
         }
       ]
+    },
+    {
+      "name": "back",
+      "title": "back",
+      "description": "",
+      "category": "background",
+      "categoryLabel": "Backgrounds",
+      "author": "XUI",
+      "authorHandle": "@xui_dev",
+      "dependencies": [
+        "lucide-react"
+      ],
+      "registryDependencies": [],
+      "files": [
+        {
+          "name": "back.tsx",
+          "path": "registry/components/back/index.tsx",
+          "target": "components/xui/back.tsx"
+        },
+        {
+          "name": "back.jsx",
+          "path": "registry/components/back/index.jsx",
+          "target": "components/xui/back.jsx"
+        }
+      ]
     }
   ]
 }
