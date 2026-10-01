@@ -1,0 +1,25 @@
+{
+  "name": "targetcheckbox",
+  "title": "TargetCheckbox",
+  "description": "",
+  "category": "checkboxes",
+  "categoryLabel": "Checkboxes",
+  "author": "XUI",
+  "authorHandle": "@xui_dev",
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "files": [
+    {
+      "name": "targetcheckbox.tsx",
+      "path": "registry/components/targetcheckbox/index.tsx",
+      "target": "components/xui/targetcheckbox.tsx"
+    },
+    {
+      "name": "targetcheckbox.jsx",
+      "path": "registry/components/targetcheckbox/index.jsx",
+      "target": "components/xui/targetcheckbox.jsx"
+    }
+  ]
+}
