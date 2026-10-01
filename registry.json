@@ -53,6 +53,31 @@
           "target": "components/xui/layercheckbox.jsx"
         }
       ]
+    },
+    {
+      "name": "orbitcheckbox",
+      "title": "OrbitCheckbox",
+      "description": "",
+      "category": "checkboxes",
+      "categoryLabel": "Checkboxes",
+      "author": "XUI",
+      "authorHandle": "@xui_dev",
+      "dependencies": [
+        "lucide-react"
+      ],
+      "registryDependencies": [],
+      "files": [
+        {
+          "name": "orbitcheckbox.tsx",
+          "path": "registry/components/orbitcheckbox/index.tsx",
+          "target": "components/xui/orbitcheckbox.tsx"
+        },
+        {
+          "name": "orbitcheckbox.jsx",
+          "path": "registry/components/orbitcheckbox/index.jsx",
+          "target": "components/xui/orbitcheckbox.jsx"
+        }
+      ]
     }
   ]
 }
