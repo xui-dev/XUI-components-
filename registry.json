@@ -28,6 +28,31 @@
           "target": "components/xui/two-sided-card.jsx"
         }
       ]
+    },
+    {
+      "name": "layercheckbox",
+      "title": "LayerCheckbox",
+      "description": "",
+      "category": "checkboxes",
+      "categoryLabel": "Checkboxes",
+      "author": "XUI",
+      "authorHandle": "@xui_dev",
+      "dependencies": [
+        "lucide-react"
+      ],
+      "registryDependencies": [],
+      "files": [
+        {
+          "name": "layercheckbox.tsx",
+          "path": "registry/components/layercheckbox/index.tsx",
+          "target": "components/xui/layercheckbox.tsx"
+        },
+        {
+          "name": "layercheckbox.jsx",
+          "path": "registry/components/layercheckbox/index.jsx",
+          "target": "components/xui/layercheckbox.jsx"
+        }
+      ]
     }
   ]
 }
