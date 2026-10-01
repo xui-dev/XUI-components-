@@ -128,6 +128,31 @@
           "target": "components/xui/terminalcheckbox.jsx"
         }
       ]
+    },
+    {
+      "name": "dialtoggle",
+      "title": "DialToggle",
+      "description": "",
+      "category": "toggle-switches",
+      "categoryLabel": "Toggle switches",
+      "author": "XUI",
+      "authorHandle": "@xui_dev",
+      "dependencies": [
+        "lucide-react"
+      ],
+      "registryDependencies": [],
+      "files": [
+        {
+          "name": "dialtoggle.tsx",
+          "path": "registry/components/dialtoggle/index.tsx",
+          "target": "components/xui/dialtoggle.tsx"
+        },
+        {
+          "name": "dialtoggle.jsx",
+          "path": "registry/components/dialtoggle/index.jsx",
+          "target": "components/xui/dialtoggle.jsx"
+        }
+      ]
     }
   ]
 }
