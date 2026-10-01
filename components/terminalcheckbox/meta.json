@@ -1,0 +1,25 @@
+{
+  "name": "terminalcheckbox",
+  "title": "TerminalCheckbox",
+  "description": "",
+  "category": "checkboxes",
+  "categoryLabel": "Checkboxes",
+  "author": "XUI",
+  "authorHandle": "@xui_dev",
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "files": [
+    {
+      "name": "terminalcheckbox.tsx",
+      "path": "registry/components/terminalcheckbox/index.tsx",
+      "target": "components/xui/terminalcheckbox.tsx"
+    },
+    {
+      "name": "terminalcheckbox.jsx",
+      "path": "registry/components/terminalcheckbox/index.jsx",
+      "target": "components/xui/terminalcheckbox.jsx"
+    }
+  ]
+}
