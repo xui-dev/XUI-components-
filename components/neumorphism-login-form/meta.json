@@ -1,0 +1,25 @@
+{
+  "name": "neumorphism-login-form",
+  "title": "Neumorphism Login Form",
+  "description": "",
+  "category": "forms",
+  "categoryLabel": "Forms",
+  "author": "XUI",
+  "authorHandle": "@xui_dev",
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "files": [
+    {
+      "name": "neumorphism-login-form.tsx",
+      "path": "registry/components/neumorphism-login-form/index.tsx",
+      "target": "components/xui/neumorphism-login-form.tsx"
+    },
+    {
+      "name": "neumorphism-login-form.jsx",
+      "path": "registry/components/neumorphism-login-form/index.jsx",
+      "target": "components/xui/neumorphism-login-form.jsx"
+    }
+  ]
+}
