@@ -1,0 +1,23 @@
+{
+  "name": "matrix-toggle",
+  "title": "Matrix Toggle",
+  "description": "",
+  "category": "toggle-switches",
+  "categoryLabel": "Toggle switches",
+  "author": "XUI",
+  "authorHandle": "@xui_dev",
+  "dependencies": [],
+  "registryDependencies": [],
+  "files": [
+    {
+      "name": "matrix-toggle.tsx",
+      "path": "registry/components/matrix-toggle/index.tsx",
+      "target": "components/xui/matrix-toggle.tsx"
+    },
+    {
+      "name": "matrix-toggle.jsx",
+      "path": "registry/components/matrix-toggle/index.jsx",
+      "target": "components/xui/matrix-toggle.jsx"
+    }
+  ]
+}
